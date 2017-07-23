@@ -1,0 +1,223 @@
+body {
+  margin: auto;
+  text-align: center;
+  font-family: Times;
+}
+
+.nav.navbar-nav > li > a {
+  font-size: 20px;
+  color: #ff9;
+}
+
+#one {
+  height: 50px;
+}
+
+#section1 {
+    background: url("golden_rectangle.png");
+    background-position: center;
+    height: 1000px;
+    padding-top: 60px;
+}
+
+#heading {
+  background-color: #ff9;
+  width: 825px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 10px 0 0 0;
+  border: solid #000 5px;
+  border-radius: 20px;
+  font-family: Cinzel Decorative, Times;
+  font-size: 6em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#skills {
+  margin: auto;
+  margin-top: 10px;
+  width: 1100px;
+}
+
+#talent1 {
+  text-align: center;
+  padding-top: 100px;
+}
+
+#talent2 {
+  text-align: center;
+  padding-top: 60px;
+  padding-left: 200px;
+}
+
+#talent3 {
+  text-align: center;
+  padding-top: 60px;
+  padding-left: 350px;
+}
+
+.talents {
+  background-color: #ffffe6;
+  width: 40%;
+  padding: 10px;
+  border: solid #000 3px;
+  border-radius: 20px;
+  font-size: 3em;
+}
+
+#programming {
+  background-color: #99c2ff;
+}
+
+#heading-text-1 {
+  background-color: #ffffe6;
+  width: 40%;
+  margin: auto;
+  margin-top: 80px;
+  padding: 0 0 10px 0;
+  border: solid #000 3px;
+  border-radius: 20px;
+  font-size: 1em;
+}
+
+.text {
+  font-family: Roboto;
+  font-size: 2em;
+  text-align: left;
+  margin: auto;
+  margin-bottom: 10px;
+  width: 70%;
+  padding: 50px 20px 20px 20px;
+}
+
+.prog-skills {
+  margin: 20px 20px 50px 120px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.image-container {
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  overflow: hidden;
+}
+
+#ada-image {
+  position: relative;
+  top: -30px;
+  right: -110px;
+  left: -75px;
+}
+
+#music-image {
+  position: relative;
+  top: -55px;
+  right: -110px;
+  left: -52px;
+}
+
+.image-text {
+  text-align: left;
+  font-size: 1.75em;
+  padding-top: 25px;
+}
+
+#math {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: auto;
+}
+
+#tesseract {
+  margin-top: 50px;
+}
+
+#ets {
+  margin: 30px 0 100px 0;
+}
+
+#heading-text-2 {
+  background-color: #ffffe6;
+  width: 30%;
+  margin: auto;
+  margin-top: 80px;
+  padding: 0 0 10px 0;
+  border: solid #000 3px;
+  border-radius: 20px;
+  font-size: 1em;
+}
+
+#music {
+  background-color: #99c2ff;
+}
+
+#music-text {
+  font-family: Roboto;
+  font-size: 1.25em;
+  text-align: left;
+  margin: auto;
+  margin-bottom: 10px;
+  width: 70%;
+  padding: 50px 0 20px 0;  
+}
+
+#heading-text-3 {
+  background-color: #ffffe6;
+  width: 30%;
+  margin: auto;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  padding: 0 0 10px 0;
+  border: solid #000 3px;
+  border-radius: 20px;
+  font-size: 1em;
+}
+
+#trumpet {
+  border-radius: 20%;
+}
+
+.music-skills {
+  margin: 20px 20px 50px 120px;
+  /*border: solid red 2px;*/
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#bottom-row {
+  margin: 100px 0 250px 0;
+}
+
+.navbar {
+  background-color: #009;
+}
+
+#icons {
+  margin-top: 10px;
+  padding-left: 50px;
+}
+
+.next-icon {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.navbar-text.navbar-right {
+  font-size: 25px;
+  color: #ff9;
+  padding-right: 75px;
+}
+
+.endpart {
+  background-color: #99c2ff;
+}
+
+
+
+

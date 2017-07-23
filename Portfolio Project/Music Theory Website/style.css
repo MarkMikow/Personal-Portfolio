@@ -1,0 +1,122 @@
+*{
+  background-color: #0ff;
+  color: #000;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/* navigation bar*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0ff;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #800;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #ff0;
+}
+/* end of navigation bar*/
+#image-container{
+  background-color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  height: 400px;
+  width: 400px;
+  border-radius: 200px;
+  -webkit-border-radius: 200px;
+  -moz-border-radius: 200px;
+}
+
+#book-cover{
+  height: 300px;
+  margin: 50px;
+  text-align: center;
+}
+
+#note-container{
+  width: 600px;
+  outline: 3px solid #36f;
+  margin: auto;
+  padding: 10px 20px 10px 20px;
+}
+/*Intro CSS:*/
+.introduction{
+  width: auto;
+  padding: 0 50px 0 50px;
+}
+
+.curriculum{
+  width: 600px;
+  outline: 3px solid #00f;
+  background-color: #87cefa;
+  margin: auto;
+  padding: 1px 20px 20px 20px;
+}
+/*Lessons CSS:*/
+.lessons{
+  text-align: left;
+}
+
+.text{
+  width: auto;
+  padding: 0 50px 0px 50px;
+}
+.figures{
+  padding-top: 20px;
+}
+
+img{
+  width: 65%;
+}
+
+.figures-text{
+  font-weight: bold;
+  font-size: 12px;
+  padding-bottom: 30px;
+}
+
+#circle{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.exercises{
+  font-weight: bold;
+  font-size: 18px;
+  padding-top: 50px;
+}
+
+#frequencies{
+  font-weight: bold;
+  font-size: 18px;
+  background-color: #ff0;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 35px;
+  height: 200px;
+  width: 200px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+}
+
+.figures-2-3{
+  padding: 0;
+}
